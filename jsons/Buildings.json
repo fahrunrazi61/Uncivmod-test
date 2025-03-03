@@ -10,7 +10,7 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
-		"name": "BUMN Complex",
+		"name": "BUMNComplex",
 		"replaces": "Factory",
 		"uniqueTo": "Indonesia2",
 		"cost": 320,
