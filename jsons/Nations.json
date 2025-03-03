@@ -4,7 +4,7 @@
 	        "leaderName":"Juliono",
 	        "startBias":["Coast"],
 	        "adjective": ["Indonesian"],
-	        "preferredVictoryType": "Cultural",
+	        "preferredVictoryType": "Domination",
 	        "favoredReligion": "Islam",
 	
 	        "startIntroPart1": "Across a vast ocean dotted with over fifteen thousand islands, our nation stands as a beacon of resilience and renewal. Under the iron-fisted rule of Juliono—deemed a tyrant by foreign eyes yet celebrated at home as an independent hero—we cast off the shackles of imperialism and colonial oppression. Our legacy is one of survival, self-determination, and an unyielding commitment."
@@ -17,10 +17,10 @@
 		"hateHello": "Why are you here.",
 		"tradeRequest": "Great leader, will you accept my trade offer while trying the fried rice?",
 	        "innerColor": [255,0,0],
-		"outerColor": [255,255,255],
+		"outerColor": [0,255,0],
 		"uniqueName": "Archipelagic State",
-		"uniquesText": ["Cities adjacent to water produce +3 Faith and +5 Production. All units gain a 20% combat strength bonus."],
-                "uniques": ["[+5 Production] and [+3 Faith] [in all coastal cities]\n [+20]% strength for all unit"]
+		"uniquesText": ["Cities adjacent to water produce +2 Faith and +2 Production. All units gain a 20% combat strength bonus."],
+                "uniques": ["[+2 Production, +2 Faith] [in all coastal cities]\n [+20]% strength for all unit"]
 		"cities": ["Jakarta","Surabaya","Yogyakarta","Medan","Bandung","Semarang","Palembang","Makassar","Pekanbaru","Bandar Lampung","Batam","Padang","Malang","Denpasar","Samarinda","Banjarmasin","Serang","Balikpapan","Pontianak","Jambi","Surakarta","Mataram","Manado","Kupang","Palu","Bengkulu","Ambon","Cirebon","Kendari","Jayapura","Banda Aceh","Palangkaraya","Tanjung Pinang","Pangkal Pinang","Gorontalo","Ternate","Metro"]
          }
 
