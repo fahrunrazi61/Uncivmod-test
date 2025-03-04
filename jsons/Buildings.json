@@ -10,14 +10,23 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
-		"name": "BUMNComplex",
-		"replaces": "Factory",
+		"name": "Penggilingan Padi",
+		"replaces": "Water Mill",
 		"uniqueTo": "Indonesia2",
-		"cost": 320,
-		"percentStatBonus": {"production" : 10},
-		"production": 6,
-		"requiredBuilding" : "Workshop",
+		"food": 3,
+		"production": 3,
+		"maintenance": 2,
+		"percentStatBonus": {"food": 10},
+		"requiredTech": "The Wheel"
+	},
+	{
+		"name": "Pendopo Agung",
+		"replaces": "Garden",
+		"uniqueTo": "Indonesia2",
+		"uniques": ["[+40]% Great Person generation [in this city]"],
+		"hurryCostModifier": 25,
+		"production": 4,
 		"maintenance": 3,
-		"requiredTech": "Industrialization"
+		"requiredTech": "Theology",
 	}
 ]
