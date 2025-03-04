@@ -6,28 +6,28 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Pendopo Agung
   rotate: false
-  xy: 200, 0
+  xy: 112, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tugu
   rotate: false
-  xy: 100, 0
+  xy: 760, 278
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Penggilingan Padi
+BuildingIcons/Lumbung Padi
   rotate: false
-  xy: 300, 0
+  xy: 760, 170
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Republic of Indonesia
   rotate: false
-  xy: 0, 0
+  xy: 220, 170
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
