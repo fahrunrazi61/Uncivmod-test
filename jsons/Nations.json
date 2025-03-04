@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Republic of Indonesia",
+		"name": "Indonesian Republic",
 	        "leaderName":"Juliono",
 	        "startBias":["Coast"],
 	        "adjective": ["Indonesian"],
@@ -20,8 +20,15 @@
 	        "innerColor": [255,0,0],
 		"outerColor": [255,255,255],
 		"uniqueName": "Archipelagic State",
-		"uniquesText": ["Cities adjacent to coast produce +2 Faith and +4 Production."],
-		"uniques": ["[+4 Production, +2 Faith] [to all coastal cities]"],
+		"uniquesText": ["Cities get [+ 1 Productio] from every adjent to [Coast] tiles. [+1 Food] and [+1 Production] from every [Coast] tiles [in all cities]."],
+		"uniques": ["[+1 Production] from every cities <with [1] to [1] neighboring [Coast] tiles>",
+"[+2 Production] from every cities <with [2] to [2] neighboring [Coast] tiles>",
+"[+3 Production] from every cities <with [3] to [3] neighboring [Coast] tiles>",
+"[+4 Production] from every cities <with [4] to [4] neighboring [Coast] tiles>",
+"[+5 Production] from every cities <with [5] to [5] neighboring [Coast] tiles>",
+"[+6 Production] from every cities <with [6] to [6] neighboring [Coast] tiles>",
+"[+1 Food] from every [Coast] tiles [in all cities]",
+"[+1 Production] from every [Coast] tiles [in all cities]"]
 		"cities": ["Jakarta","Surabaya","Yogyakarta","Medan","Bandung","Semarang","Palembang","Makassar","Pekanbaru","Bandar Lampung","Batam","Padang","Malang","Denpasar","Samarinda","Banjarmasin","Serang","Balikpapan","Pontianak","Jambi","Surakarta","Mataram","Manado","Kupang","Palu","Bengkulu","Ambon","Cirebon","Kendari","Jayapura","Banda Aceh","Palangkaraya","Tanjung Pinang","Pangkal Pinang","Gorontalo","Ternate","Metro"],
 		"spyNames": [ "Adityawarman","Airlangga","Citra","Halayudha","Jayakatwang","Lingga","Mahendradatta","Prapana","Raden","Devi"]
 	}
