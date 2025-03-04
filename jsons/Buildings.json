@@ -5,9 +5,8 @@
 		"uniqueTo": "Indonesian Republic",
 		"cost": 30,
 		"culture": 2,
-		"faith": 2,
 		"production": 2,
-		"maintenance": 2,
+		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
