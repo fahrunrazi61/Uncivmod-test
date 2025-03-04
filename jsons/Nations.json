@@ -19,8 +19,9 @@
 		"tradeRequest": "Step into our vibrant markets, where every traded artifact carries a story as rich as the tapestry of our islands. We do not merely exchange goods—we share a heritage steeped in struggle and triumph. May this commerce be as bountiful and harmonious as the endless waves that unite our scattered isles.",
 	        "innerColor": [255,0,0],
 		"outerColor": [255,255,255],
-		"uniqueName": "Successful Revolution",
-		"uniques": ["[+3 Production] [in all coastal cities]", "[+2 Production] from every [Great Improvement]","[[+25]% strength <for [water] units>]"],
+		"uniqueName": "Archipelagic State",
+		"uniqueText": "[+3 Production] from every [Great Improvement] with at least [1] adjacent [Coast], [+3 Production] [in all coastal cities], [+20]% strength <for [water] units>",
+		"uniques": ["[+3 Production] [in all coastal cities]","[[+3 Production] from every [Great Improvement] <with [1] to [6] neighboring [Coast] tiles>]","[[+20]% strength <for [water] units>]"],
 		"cities": ["Jakarta","Surabaya","Yogyakarta","Medan","Bandung","Semarang","Palembang","Makassar","Pekanbaru","Bandar Lampung","Batam","Padang","Malang","Denpasar","Samarinda","Banjarmasin","Serang","Balikpapan","Pontianak","Jambi","Surakarta","Mataram","Manado","Kupang","Palu","Bengkulu","Ambon","Cirebon","Kendari","Jayapura","Banda Aceh","Palangkaraya","Tanjung Pinang","Pangkal Pinang","Gorontalo","Ternate","Metro"],
 		"spyNames": [ "Adityawarman","Airlangga","Citra","Halayudha","Jayakatwang","Lingga","Mahendradatta","Prapana","Raden","Devi"]
 	}
