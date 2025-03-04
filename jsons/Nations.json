@@ -20,7 +20,7 @@
 	        "innerColor": [255,0,0],
 		"outerColor": [255,255,255],
 		"uniqueName": "Successful Revolution",
-		"uniques": ["[+2 Production] [in all cities], [+2 Production] from every [Great Improvement]"],
+		"uniques": ["[+2 Production] [in all cities]", "[+2 Production] from every [Great Improvement]"],
 		"cities": ["Jakarta","Surabaya","Yogyakarta","Medan","Bandung","Semarang","Palembang","Makassar","Pekanbaru","Bandar Lampung","Batam","Padang","Malang","Denpasar","Samarinda","Banjarmasin","Serang","Balikpapan","Pontianak","Jambi","Surakarta","Mataram","Manado","Kupang","Palu","Bengkulu","Ambon","Cirebon","Kendari","Jayapura","Banda Aceh","Palangkaraya","Tanjung Pinang","Pangkal Pinang","Gorontalo","Ternate","Metro"],
 		"spyNames": [ "Adityawarman","Airlangga","Citra","Halayudha","Jayakatwang","Lingga","Mahendradatta","Prapana","Raden","Devi"]
 	}
