@@ -3,7 +3,7 @@
 		"name": "Tugu",
 		"replaces": "Monument",
 		"uniqueTo": "Indonesia2",
-		"cost": 40,
+		"cost": 30,
 		"culture": 2,
 		"production": 2,
 		"maintenance": 1,
