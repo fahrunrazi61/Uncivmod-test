@@ -2,7 +2,7 @@
 	{
 		"name": "Tugu",
 		"replaces": "Monument",
-		"uniqueTo": "Republic of Indonesia",
+		"uniqueTo": "Indonesian Republic",
 		"cost": 30,
 		"culture": 2,
 		"production": 2,
@@ -12,7 +12,7 @@
 	{
 		"name": "Lumbung Padi",
 		"replaces": "Granary",
-		"uniqueTo": "Republic of Indonesia",
+		"uniqueTo": "Indonesian Republic",
 		"food": 2,
 		"production": 2,
 		"maintenance": 1,
@@ -25,9 +25,9 @@
 	{
 		"name": "Pendopo Agung",
 		"replaces": "Garden",
-		"uniqueTo": "Republic of Indonesia",
-		"uniques": ["[+25]% Great Person generation [in this city]"],
-		"hurryCostModifier": 25,
+		"uniqueTo": "Indonesian Republic",
+		"uniques": ["[+20]% Great Person generation [in this city]"],
+		"cost": 90,
 		"production": 4,
 		"maintenance": 1,
 		"requiredTech": "Theology",
