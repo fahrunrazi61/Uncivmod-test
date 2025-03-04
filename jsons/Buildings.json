@@ -2,7 +2,7 @@
 	{
 		"name": "Tugu",
 		"replaces": "Monument",
-		"uniqueTo": "Indonesia2",
+		"uniqueTo": "Republic of Indonesia",
 		"cost": 30,
 		"culture": 2,
 		"production": 2,
@@ -12,7 +12,7 @@
 	{
 		"name": "Penggilingan Padi",
 		"replaces": "Water Mill",
-		"uniqueTo": "Indonesia2",
+		"uniqueTo": "Republic of Indonesia",
 		"food": 3,
 		"production": 3,
 		"maintenance": 2,
@@ -22,7 +22,7 @@
 	{
 		"name": "Pendopo Agung",
 		"replaces": "Garden",
-		"uniqueTo": "Indonesia2",
+		"uniqueTo": "Republic of Indonesia",
 		"uniques": ["[+40]% Great Person generation [in this city]"],
 		"hurryCostModifier": 25,
 		"production": 4,
