@@ -25,7 +25,7 @@
 		"name": "Pendopo Agung",
 		"replaces": "Garden",
 		"uniqueTo": "Indonesian Republic",
-		"uniques": ["[+20]% Great Person generation [in this city]"],
+		"uniques": ["[+25]% Great Person generation [in this city]"],
 		"cost": 90,
 		"production": 4,
 		"maintenance": 1,
