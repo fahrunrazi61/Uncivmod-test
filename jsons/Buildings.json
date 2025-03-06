@@ -14,7 +14,6 @@
 		"uniqueTo": "Indonesian Republic",
 		"food": 2,
 		"production": 2,
-		"happiness": 2,
 		"maintenance": 1,
 		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
 			"[+1 Food] from [Bananas] tiles [in this city]",
@@ -27,7 +26,8 @@
 		"replaces": "Garden",
 		"uniqueTo": "Indonesian Republic",
 		"uniques": ["[+25]% Great Person generation [in this city]"],
-		"production" : 3,
+		"production": 3,
+		"happiness": 3,
 		"maintenance": 1,
 		"requiredTech": "Theology"
 	}
