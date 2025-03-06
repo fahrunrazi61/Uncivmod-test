@@ -6,7 +6,7 @@
 		"cost": 30,
 		"culture": 2,
 		"maintenance": 1,
-		"unique": ["[+1 Production] from [Coast] tiles [in this city]"]
+		"unique": ["[+1 Production] from [Water] tiles [in this city]"]
 	},
 	{
 		"name": "Lumbung Padi",
@@ -19,7 +19,7 @@
 		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]",
-		        "[+1 Food] from [Coast] tiles [in this city]"],
+		        "[+1 Food] from [Water] tiles [in this city]"],
 		"requiredTech": "Pottery"
 	},
 	{
@@ -27,7 +27,7 @@
 		"replaces": "Garden",
 		"uniqueTo": "Indonesian Republic",
 		"uniques": ["[+25]% Great Person generation [in this city]"],
-		"greatPersonPoints": {"Great Engineer": 2},
+		"production" : 3,
 		"maintenance": 1,
 		"requiredTech": "Theology"
 	}
