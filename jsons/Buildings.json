@@ -6,7 +6,7 @@
 		"cost": 30,
 		"culture": 2,
 		"maintenance": 1,
-		"unique": ["[+1 Production] from [Water] tiles [in this city]"]
+		"uniques": ["[+1 Production] from [Coast] tiles [in this city]"]
 	},
 	{
 		"name": "Lumbung Padi",
