@@ -14,7 +14,6 @@
 		"replaces": "Granary",
 		"uniqueTo": "Indonesian Republic",
 		"food": 2,
-		"cost":140,
 		"production": 2,
 		"maintenance": 1,
 		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
@@ -30,6 +29,7 @@
 		"uniques": ["[+25]% Great Person generation [in this city]"],
 		"production": 3,
 		"happiness": 3,
+		"cost": 140,
 		"maintenance": 1,
 		"requiredTech": "Sailing"
 	}
