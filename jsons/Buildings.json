@@ -4,9 +4,10 @@
 		"replaces": "Monument",
 		"uniqueTo": "Indonesian Republic",
 		"culture": 2,
+		"cost" : 50,
 		"happiness": 2,
 		"maintenance": 1,
-		"uniques": ["[+1 Production] from [Water] tiles [in this city]"]
+		"uniques": ["[+2 Production] from [Water] tiles [in this city]"]
 	},
 	{
 		"name": "Lumbung Padi",
