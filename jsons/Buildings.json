@@ -7,7 +7,7 @@
 		"cost" : 50,
 		"happiness": 2,
 		"maintenance": 1,
-		"uniques": ["[+2 Production] from [Water] tiles [in this city]"]
+		"uniques": ["[+1 Production] from [Water] tiles [in this city]"]
 	},
 	{
 		"name": "Lumbung Padi",
@@ -27,8 +27,8 @@
 		"replaces": "Garden",
 		"uniqueTo": "Indonesian Republic",
 		"uniques": ["[+25]% Great Person generation [in this city]"],
-		"production": 2,
-		"happiness": 4,
+		"production": 3,
+		"happiness": 3,
 		"maintenance": 1,
 		"requiredTech": "Sailing"
 	}
