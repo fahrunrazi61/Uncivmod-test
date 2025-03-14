@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Indonesian Republic",
+		"name": "Sielc",
 	        "leaderName":"Juliono",
-	        "startBias":["Coast"],
-	        "adjective": ["Indonesian"],
+	        "startBias":["Grassland"],
+	        "adjective": ["Sielcan"],
 	        "preferredVictoryType": "Domination",
 	        "favoredReligion": "Islam",
 	
@@ -20,8 +20,8 @@
 	        "innerColor": [255,0,0],
 		"outerColor": [255,255,255],
 		"uniqueName": "Archipelagic State",
-		"uniques": ["[1] Range<for [Ranged] units>","[+30]% Strength <for [melee] units> <when defending>"],
-		"cities": ["Jakarta","Surabaya","Yogyakarta","Medan","Bandung","Semarang","Palembang","Makassar","Pekanbaru","Bandar Lampung","Batam","Padang","Malang","Denpasar","Samarinda","Banjarmasin","Serang","Balikpapan","Pontianak","Jambi","Surakarta","Mataram","Manado","Kupang","Palu","Bengkulu","Ambon","Cirebon","Kendari","Jayapura","Banda Aceh","Palangkaraya","Tanjung Pinang","Pangkal Pinang","Gorontalo","Ternate","Metro"],
+		"uniques": ["[1] Range<for [Ranged] units>","[+20]% Strength <for [all] units> <when at war>"],
+		"cities": ["Velrusia","Emberlyn","Eldoria","Rozaria","Asotopia","Renaxis","Palembang","Makassar","Pekanbaru","Bandar Lampung","Batam","Padang","Malang","Denpasar","Samarinda","Banjarmasin","Serang","Balikpapan","Pontianak","Jambi","Surakarta","Mataram","Manado","Kupang","Palu","Bengkulu","Ambon","Cirebon","Kendari","Jayapura","Banda Aceh","Palangkaraya","Tanjung Pinang","Pangkal Pinang","Gorontalo","Ternate","Metro"],
 		"spyNames": [ "Adityawarman","Airlangga","Citra","Halayudha","Jayakatwang","Lingga","Mahendradatta","Prapana","Raden","Devi"]
 	}
 
